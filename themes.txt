@@ -1,0 +1,3 @@
+themes : whitesur-nord-gtk from vinceluice 
+icons : whitesur icons also from vinceluice
+cursor : nordzy cursors
