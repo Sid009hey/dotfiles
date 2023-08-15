@@ -1,0 +1,8 @@
+rofi - as the app launcher
+cmus - as the music player
+mocp - as the secondary music player
+
+# other stuff
+
+mono font is sourcecodevf semibold
+system font is SF pro medium
